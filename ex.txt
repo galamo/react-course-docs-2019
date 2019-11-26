@@ -1,0 +1,15 @@
+Visual studio code
+Node + npm
+Npm install typescript -g 
+
+npm install -g create-react-app
+
+npx create-react-app ibm-course –typescript
+
+
+
+
+
+
+
+ 
